@@ -1,9 +1,11 @@
-Zero to Mastery Udemy React Project
-This project was bootstrapped with Create React App.
+## Zero to Mastery Udemy React Project
 
-Instructions
-1.Clone this repo
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-2.Run npm install
+## Instructions
 
-3.Run npm start
+  1.Clone this repo
+  
+  2.Run npm install
+  
+  3.Run npm start
